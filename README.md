@@ -41,6 +41,6 @@ plr.start()
 
 ### checkChoice(choice1:str, choice2:str) -> Bool
 
-: Args: choice1 -> The choice for player 1 | choice2 -> the Choice for player 2
-: description: checks the choice and see who wins using default rps rules
+: Args: choice1 -> The choice for player 1 | choice2 -> the Choice for player 2 |
+: description: checks the choice and see who wins using default rps rules |
 : returns: This returns a True/False vlaue if True then ==choice1== was correct, if False then ==choice2== was correct.
